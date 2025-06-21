@@ -4,7 +4,7 @@ c'est une appli de dessin vraiment mauvaise, je ne conceil a personne de la tél
 ### installer bali_draw
 
 ```bash
-sudo pacman -U bali_draw-1.0-1-any.pkg.tar.zst
+sudo pacman -U bali_draw-V1.1any.pkg.tar.zst
 ```
 
 ### Créer le paquet Arch (ne sert que si vous souhaitez modifier l'application)
